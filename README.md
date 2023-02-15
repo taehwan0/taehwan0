@@ -1,6 +1,8 @@
+<div align=center>
+
 ### HI 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehwan0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehwan0&layout=compact&theme=onedark"/>
 
 ## Tech Stack 💻
 
@@ -15,3 +17,5 @@
 <a href="https://velog.io/@jangtaehwan">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jangtaehwan"/>
 </a>
+
+</div>
